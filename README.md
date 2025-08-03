@@ -1,11 +1,6 @@
 # Logistics_Management_System_using_MySQL
 This MySQL-based logistics management system models real-world shipping operations. It includes tables for ships, cargo, ports, routes, employees, and maintenance logs, enabling efficient tracking and analysis of maritime logistics data.
 
-
-# 🚢 Logistics Management System – MySQL Project
-
-This project implements a relational database model for managing the logistics of cargo shipping. It includes detailed records for ships, cargo, ports, ship routes, employees, and maintenance activities.
-
 ---
 
 ## 🧱 Database Overview
